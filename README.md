@@ -34,9 +34,9 @@ Note que uma pasta chamada <i>myvenv</i> foi criada,
 então execute a partir da raiz do projeto o comando para ativa-la:<br/>
 <strong>. myvenv/Script/activate</strong><br/>
 
-Para executar entre na pasta
+<!-- Para executar entre na pasta
 <strong>app</strong> e execute o comando:<br/>
-<strong>uvicorn main:app --reload</strong><br/>
+<strong>uvicorn main:app --reload</strong><br/> -->
 
 <!-- ## :hammer: Instalação das Dependências:<br/>
 
