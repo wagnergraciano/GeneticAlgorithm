@@ -1,5 +1,5 @@
 <h1 align="center">
- :robot I.A para Algoritmos Genéticos
+ :robot: I.A para Algoritmos Genéticos
 </h1><br/>
 
 ## Atividade da Matéria de I.A. um Algoritmo Genético de timetabling educacional <span style="font-size: 32px"> :date:</span>
