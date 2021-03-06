@@ -1,8 +1,8 @@
 <h1 align="center">
- &#9749; I.A 
+ :robot I.A para Algoritmos Genéticos
 </h1><br/>
 
-## Esté repositório implementa a atividade da Matéria de I.A. para Algoritmos Genéticos <span style="font-size: 32px">:robot:</span>
+## Atividade da Matéria de I.A. um Algoritmo Genético de timetabling educacional <span style="font-size: 32px"> :date:</span>
 
 <br/>
 
@@ -10,7 +10,7 @@
   - <strong>Python 3.6 + </strong> <br/>
   - <strong>Virtualenv </strong> <br/>
 
-<strong>Links:</strong> <span>:page_facing_up:</span><br/>
+<span>:page_facing_up:</span> <strong>Links:</strong> <br/>
 https://docs.python.org/pt-br/3/library/venv.html
 
 ## :factory: Criando Virtualenv: <br/>
