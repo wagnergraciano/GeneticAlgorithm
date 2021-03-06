@@ -2,7 +2,7 @@
  &#9749; I.A 
 </h1><br/>
 
-## Esté repositório implementa a atividade da Matéria de I.A. para Algoritmos Genéticos <span style="font-size: 32px">&#129497;&#127997;</span>
+## Esté repositório implementa a atividade da Matéria de I.A. para Algoritmos Genéticos <span style="font-size: 32px">:robot:</span>
 
 <br/>
 
@@ -10,7 +10,7 @@
   - <strong>Python 3.6 + </strong> <br/>
   - <strong>Virtualenv </strong> <br/>
 
-<strong>Links:</strong> <span>&#128072;&#127998;</span><br/>
+<strong>Links:</strong> <span>:page_facing_up:</span><br/>
 https://docs.python.org/pt-br/3/library/venv.html
 
 ## :factory: Criando Virtualenv: <br/>
